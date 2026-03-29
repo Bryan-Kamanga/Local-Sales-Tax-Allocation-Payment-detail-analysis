@@ -56,7 +56,7 @@ Total annual current retained by allocation
 Total net payment
 Total net payment by authority name
 Ratio of net payment to total collections
-Correlation analysis
+Correlation analysis.
 
 **VISUALIZATION**
 Annual total collections by year
