@@ -68,5 +68,21 @@ Annual single local rate collections
 Annual net payment
 Top 10 locations for total collections
 
+**INSIGHTS**
+From the correlation analysis, the biggest proportion of total collections came from current-period collections, which showed compliance.
+In addition, there was also a significant contribution from prior period collections, which indicates a significant delay in compliance trends.
+The highest annual total collections came in 2025 and the lowest was from 2022.
+The highest future period collections were in 2024 and the lowest were in 2022
+Current period collections showed a steady rise, with the highest collections in 2026.
+There was a significant increase in annual audit collections in 2024 from 2023, with the highest collections in 2024.
+There was a sharp decline in annual audit collections in 2026 compared to 2025.
+The highest unidentified collections were in 2023 with the lowest being in 2025.
+There was a significant rise in annual single local rate collections, which showed an increased contribution from remote sellers.
+The lowest single local rate collections were in 2022, and the highest single local rate collections were in 2025, with a slight drop in 2026.
+The annual net payments were highest in 2025 and lowest in 2022, similar to the total collections.
+The highest contributions were from Houston, MTA.
+
+
+
 
 
